@@ -1,15 +1,2 @@
 # AllAboutMe
 
-	<head>
- 		<title>Hello World</title>
-	</head>
-
-	<body bgcolor="black">
-		<h1 text="BLUE">All About Me</h1>
-		<p text="green">My name is Ella i am 14 years old.</p> 
-		<p text="white">I love to paint and roller skate.</p>
-		<img src="DSC_0187456" width="500px" />
-
-	</body>
-
-</html>
